@@ -29,7 +29,7 @@ function AboutMe() {
               <Card sx={{ maxWidth: 345 , minWidth: 300 }} onClick={()=>{window.open('https://maps.app.goo.gl/29LVrrHNvRe2VhEWA', '_blank');}}>
                     <CardMedia
                       sx={{ height: 400 }}
-                      image="public/AboutUs/GKArts_Gold_Kirit.jpg"
+                      image="AboutUs/GKArts_Gold_Kirit.jpg"
                       title="GKArts_Gold_Kirit"
                     />
                     <CardContent>
@@ -51,7 +51,7 @@ function AboutMe() {
               <Card sx={{ maxWidth: 345 , minWidth: 300 }} onClick={()=>{window.open('https://maps.app.goo.gl/he3EWjm61HQGdqQk7', '_blank');}}>
                     <CardMedia
                       sx={{ height: 400 }}
-                      image="public/AboutUs/GKArts_Mukhota.jpg"
+                      image="AboutUs/GKArts_Mukhota.jpg"
                       title="GKArts_Mukhota"
                     />
                     <CardContent>
@@ -73,7 +73,7 @@ function AboutMe() {
               <Card sx={{ maxWidth: 345 , minWidth: 300 }} onClick={()=>{window.open('https://maps.app.goo.gl/Mj6vuVTxXUSThADM6', '_blank');}}>
                     <CardMedia
                       sx={{ height: 400 }}
-                      image="public/AboutUs/GKArts_Ears.jpg"
+                      image="AboutUs/GKArts_Ears.jpg"
                       title="GKArts_Ears"
                     />
                     <CardContent>
@@ -95,7 +95,7 @@ function AboutMe() {
               <Card sx={{ maxWidth: 345 , minWidth: 300 }} onClick={()=>{window.open('https://maps.app.goo.gl/UvBHSzyddQAroWLG6', '_blank');}}>
                     <CardMedia
                       sx={{ height: 400 }}
-                      image="public/AboutUs/GKArts_Shri_Ramaling_Mandir.jpg"
+                      image="AboutUs/GKArts_Shri_Ramaling_Mandir.jpg"
                       title="GKArts_Shri_Ramaling_Mandir"
                     />
                     <CardContent>
@@ -117,7 +117,7 @@ function AboutMe() {
               <Card sx={{ maxWidth: 345 , minWidth: 300 }} onClick={()=>{window.open('https://maps.app.goo.gl/pmbbZVChL8fsoL417', '_blank');}}>
                     <CardMedia
                       sx={{ height: 400 }}
-                      image="public/AboutUs/GKArts_ಆಂಜನೇಯ ಗುಡಿ.jpg"
+                      image="AboutUs/GKArts_ಆಂಜನೇಯ ಗುಡಿ.jpg"
                       title="GKArts_ಆಂಜನೇಯ ಗುಡಿ"
                     />
                     <CardContent>
@@ -139,7 +139,7 @@ function AboutMe() {
               <Card sx={{ maxWidth: 345 , minWidth: 300 }} onClick={()=>{window.open('https://maps.app.goo.gl/oc5MiHU5npdrXhnw5', '_blank');}}>
                     <CardMedia
                       sx={{ height: 400 }}
-                      image="public/AboutUs/GKArts_Ambika_Temple_Lake.jpg"
+                      image="AboutUs/GKArts_Ambika_Temple_Lake.jpg"
                       title="GKArts_Ambika_Temple_Lake"
                     />
                     <CardContent>

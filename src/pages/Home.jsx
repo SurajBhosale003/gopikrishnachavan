@@ -74,7 +74,7 @@ function Home() {
               <Card sx={{ maxWidth: 345 , minWidth: 300}} onClick={()=>{navigate('/gold')}}>
                 <CardMedia
                   sx={{ height: 140 }}
-                  image="public/Slider/Gold.jpg"
+                  image="Slider/Gold.jpg"
                   title="Custom-Gold"
                 />
                 <CardContent>
@@ -96,7 +96,7 @@ function Home() {
               <Card sx={{ maxWidth: 345 , minWidth: 300 }} onClick={()=>{navigate('/gold')}}>
                     <CardMedia
                       sx={{ height: 140 }}
-                      image="public/Slider/Silver.jpg"
+                      image="Slider/Silver.jpg"
                       title="Custom-Silver"
                     />
                     <CardContent>

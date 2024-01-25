@@ -12,17 +12,17 @@ const divStyle = {
 
 const slideImages = [
   {
-    url: 'public/Slider/Main.jpg',
+    url: 'Slider/Main.jpg',
     caption: 'GopikrishnaChavan',
     caption1: 'Custom Jwellay'
   },
   {
-    url: 'public/Slider/Gold.jpg',
+    url: 'Slider/Gold.jpg',
     caption: 'Custom Gold',
     caption1: 'Gold'
   },
   {
-    url: 'public/Slider/Silver.jpg',
+    url: 'Slider/Silver.jpg',
     caption: 'Custom Silver',
     caption1: 'Silver'
   },

@@ -53,7 +53,7 @@ function Silver() {
           </div>
 
           <div className="itemofAboutMe">
-              <img src="public/AboutUs/GKArts_Gold_Kirit.jpg" alt="GKArts_Gold_Kirit" />
+              <img src="AboutUs/GKArts_Gold_Kirit.jpg" alt="GKArts_Gold_Kirit" />
           </div>
 
         </div>
@@ -68,7 +68,7 @@ function Silver() {
           </div>
 
           <div className="itemofAboutMe">
-              <img src="public/AboutUs/GKArts_Mukhota.jpg" alt="GKArts_Mukhota" />
+              <img src="AboutUs/GKArts_Mukhota.jpg" alt="GKArts_Mukhota" />
           </div>
 
         </div>
@@ -81,7 +81,7 @@ function Silver() {
           </div>
 
           <div className="itemofAboutMe">
-              <img src="public/AboutUs/GKArts_Ears.jpg" alt="GKArts_Ears" />
+              <img src="AboutUs/GKArts_Ears.jpg" alt="GKArts_Ears" />
           </div>
 
         </div>
@@ -94,7 +94,7 @@ function Silver() {
           </div>
 
           <div className="itemofAboutMe">
-              <img src="public/AboutUs/GKArts_Shri_Ramaling_Mandir.jpg" alt="GKArts_Shri_Ramaling_Mandir" />
+              <img src="AboutUs/GKArts_Shri_Ramaling_Mandir.jpg" alt="GKArts_Shri_Ramaling_Mandir" />
           </div>
 
         </div>
@@ -107,7 +107,7 @@ function Silver() {
           </div>
 
           <div className="itemofAboutMe">
-              <img src="public/AboutUs/GKArts_ಆಂಜನೇಯ ಗುಡಿ.jpg" alt="GKArts_ಆಂಜನೇಯ ಗುಡಿ" />
+              <img src="AboutUs/GKArts_ಆಂಜನೇಯ ಗುಡಿ.jpg" alt="GKArts_ಆಂಜನೇಯ ಗುಡಿ" />
           </div>
 
         </div>
@@ -120,7 +120,7 @@ function Silver() {
           </div>
 
           <div className="itemofAboutMe">
-              <img src="public/AboutUs/GKArts_Ambika_Temple_Lake.jpg" alt="GKArts_Ambika_Temple_Lake" />
+              <img src="AboutUs/GKArts_Ambika_Temple_Lake.jpg" alt="GKArts_Ambika_Temple_Lake" />
           </div>
 
         </div>

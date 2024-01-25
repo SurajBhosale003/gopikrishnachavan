@@ -20,7 +20,7 @@ function ContactUs() {
 
         </div>
         <div className='homepageImageContainer'>
-           <img src="public/AboutUs/GKArts_Gold_Kirit.jpg" alt="Gopikrishna_Chavan" height={"460px"} width={"330px"}/>
+           <img src="AboutUs/GKArts_Gold_Kirit.jpg" alt="Gopikrishna_Chavan" height={"460px"} width={"330px"}/>
         </div>  
 
 
