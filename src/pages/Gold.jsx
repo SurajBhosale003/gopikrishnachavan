@@ -51,13 +51,13 @@ const items = [
       "category": "Mukhote",
       "type": "Silver"
   },
-  {
-      "uid": "8",
-      "name": "Mukhote",
-      "imgUrl": "products/Mukhote/Mukhote_008.jpg",
-      "category": "Mukhote",
-      "type": "Silver"
-  },
+  // {
+  //     "uid": "8",
+  //     "name": "Mukhote",
+  //     "imgUrl": "products/Mukhote/Mukhote_008.jpg",
+  //     "category": "Mukhote",
+  //     "type": "Silver"
+  // },
   {
       "uid": "9",
       "name": "Mukhote",

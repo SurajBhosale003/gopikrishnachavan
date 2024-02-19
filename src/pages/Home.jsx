@@ -53,7 +53,7 @@ function Home() {
         </div>
 
         <div className="HomePageSectionContent">
-            <div className="HomePageListItem">✨ <strong>Why Choose Gopikrishna Chavan Arts Arts?</strong></div>
+            <div className="HomePageListItem">✨ <strong>Why Choose Gopikrishna Chavan Arts?</strong></div>
             <ul>
                 <li className="HomePageListItem"><strong>Customization:</strong> We understand your unique preferences.
                     Customize your pieces to reflect your personal style and spiritual connection.</li>
