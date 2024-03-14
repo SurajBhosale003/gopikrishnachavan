@@ -14,7 +14,7 @@ const slideImages = [
   {
     url: 'Slider/Main.jpg',
     caption: 'GopikrishnaChavan',
-    caption1: 'Custom Jwellay'
+    caption1: 'Custom jewellery'
   },
   {
     url: 'Slider/Gold.jpg',
